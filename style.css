@@ -1,0 +1,19 @@
+h1{
+    color :aquamarine;
+    text-align: center;
+}
+
+p{
+
+    color :green;
+    font-size :30;
+    background-color: aquamarine;
+}
+
+button{
+    background-color: rgb(238, 112, 80);
+    color:white;
+    padding:10px, 20px;
+    border-radius: 3%;
+    border-color: blueviolet;
+}
